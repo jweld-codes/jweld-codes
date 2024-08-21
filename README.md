@@ -26,5 +26,5 @@ I'm always eager to expand my knowledge. Right now, I'm diving deeper into:
 
 ### 🌐 Connect with Me
 
-- [LinkedIn | Jemima Weld]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jemima-weld-134502188/))
+- [LinkedIn | Jemima Weld](https://www.linkedin.com/in/jemima-weld-134502188/)
 - [Instagram | jweld.codes ](https://www.instagram.com/jweld.codes/?hl=es-la)
