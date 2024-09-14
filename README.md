@@ -19,7 +19,7 @@ My journey in tech is driven by my curiosity and desire to build impactful proje
 
 I'm always eager to expand my knowledge. Right now, I'm diving deeper into:
 
-- Advanced React.js concepts
+- React.js concepts
 - Backend development with Node.js and Express
 - Data structures and algorithms in Python
 
